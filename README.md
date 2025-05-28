@@ -1,6 +1,5 @@
 # Google Apps Script Project
-EK Klinkman, EJ Rouse
-Neurobionics Lab, Department of Robotics, University of Michigan, 2024
+EK Klinkman, University of Michigan, 2024
 
 ## Overview
 
